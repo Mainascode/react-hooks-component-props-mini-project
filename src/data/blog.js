@@ -4,6 +4,7 @@ const blogData = {
   name: "Underreacted",
   image: logo,
   about: "A blog about learning React",
+  
   posts: [
     {
       id: 1,
